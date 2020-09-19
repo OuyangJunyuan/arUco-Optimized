@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ou/workspace/clion_ws/aruco_test/src/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+opencv2/aruco.hpp
+-
+chrono
+-
+queue
+-
+

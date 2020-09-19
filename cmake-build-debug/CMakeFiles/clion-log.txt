@@ -1,0 +1,6 @@
+/home/ou/software/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ou/workspace/clion_ws/aruco_test
+-- This is BINARY dir 
+-- This is SOURCE dir 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ou/workspace/clion_ws/aruco_test/cmake-build-debug
